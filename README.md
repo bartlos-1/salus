@@ -1,6 +1,6 @@
 # Salus: Food Ingredient Checker
 
-Hackathon project. Salus helps people with allergies or dietary restrictions check food before they eat it.
+Built at Hack the Change 2025 ([Devpost](https://devpost.com/software/salus-0bchx9)). Salus helps people with allergies or dietary restrictions check food before they eat it.
 
 - **Users** save their allergens and ingredients they want to avoid, then scan a product barcode or a menu item's QR code. The app looks up the ingredients and flags anything on their list, along with whether the item is vegan or vegetarian.
 - **Food facilities** add their menu items and recipes, and the app generates a QR code for each item that customers can scan.
